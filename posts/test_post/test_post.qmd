@@ -1,0 +1,8 @@
+---
+title: "Test Post"
+author: "Tristan O'Malley"
+date: "2024-05-25"
+categories: [news]
+---
+
+This is a test post!
